@@ -1,3 +1,6 @@
+Here are all the codes and reports of my Projects in the DDA3020 course. All Projects are implemented using Python. The scores of my four Projects are all full marks.
+
+The tasks require strong machine learning skills, proficiency with `scikit-learn` and `TensorFlow`, and capable data visualization using `Matplotlib`, highlighting an admirable ability to optimize and evaluate models effectively.
 # Project 1
 ## Task 1
 - **3.2**: Code `gradient_descent` to optimize a 3x3 weight matrix $\mathbf{w}$ for softmax regression over 10,000 epochs (learning rate 0.1). Compute logits $\mathbf{z} = \mathbf{X} \mathbf{w}$, predictions with softmax, cross-entropy cost, and update $\mathbf{w}$ using the gradient. Output cost per epoch, decreasing from ~1.4265 to ~0.4085.
